@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Electronic",
+      "title": "Phone",
+      "model": "Iphone 11",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "category": "Men",
+      "title": "Shoes",
+      "model": "Jordan retro 3",
+      "price": 140
+    },
+    {
+      "id": 3,
+      "category": "Women",
+      "title": "Shoes",
+      "model": "Jordan retro 4",
+      "price": 60
+    },
+    {
+      "id": 4,
+      "category": "Women",
+      "title": "Handbag",
+      "model": "Gucci",
+      "price": 320
+    },
+    {
+      "id": 5,
+      "category": "Men",
+      "title": "Jeans",
+      "model": "Stefano",
+      "price": 240
+    },
+    {
+      "id": 6,
+      "category": "Electronic",
+      "title": "Watch",
+      "model": "Mi Band",
+      "price": 150
+    },
+    {
+      "id": 7,
+      "category": "Women",
+      "title": "T-shirt",
+      "model": "Montana",
+      "price": 840
+    },
+    {
+      "id": 8,
+      "category": "Men",
+      "title": "Coat",
+      "model": "Gucci",
+      "price": 550
+    },
+    {
+      "id": 9,
+      "category": "Electronic",
+      "title": "Headphone",
+      "model": "Mi G3",
+      "price": 680
+    },
+    {
+      "id": 10,
+      "category": "Electronic",
+      "title": "Phone",
+      "model": "Samsung A50",
+      "price": 720
+    },
+    {
+      "id": 11,
+      "category": "Men",
+      "title": "Hat",
+      "model": "Stefano",
+      "price": 45
+    },
+    {
+      "id": 12,
+      "category": "Women",
+      "title": "Hat",
+      "model": "Montana",
+      "price": 80
+    }
+  ],
+  "cart": []
+}
